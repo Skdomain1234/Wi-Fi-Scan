@@ -6,11 +6,10 @@ It scans for nearby WiFi networks, displays their details in a formatted table, 
 
 ⚙️ Features
 
-✅ Scan available WiFi networks
-✅ Display SSID and signal strength in a clean table format
-✅ Save results to wifi_list.txt (plain text)
-✅ Save results to wifi_list.csv (spreadsheet compatible)
-✅ Lightweight and works on Linux / Windows
+✅ Scan available WiFi networks.
+✅ Display SSID and signal strength in a clean table format.
+✅ Save results to wifi_list.txt (plain text).
+✅ Save results to wifi_list.csv (spreadsheet compatible).
 
 
 
