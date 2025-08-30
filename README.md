@@ -18,7 +18,8 @@ It scans for nearby WiFi networks, displays their details in a formatted table, 
 Clone the repository and install dependencies:
 
 ```bash
+sudo apt update
 git clone https://github.com/Skdomain1234/Wi-Fi-Scan.git
-cd wifi-scanner
-pip install pywifi
+cd Wi-Fi-Scan
+pip install pywifi --break-system-packages
 python wifiscan.py
