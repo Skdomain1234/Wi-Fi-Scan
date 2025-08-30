@@ -19,7 +19,7 @@ Clone the repository and install dependencies:
 
 ```bash
 sudo apt update
-git clone https://github.com/Skdomain1234/Wi-Fi-Scan.git
+git clone https://github.com/cybernananban00/Wi-Fi-Scan.git
 cd Wi-Fi-Scan
 pip install pywifi --break-system-packages
 python wifiscan.py
