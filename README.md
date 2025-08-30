@@ -13,10 +13,6 @@ It scans for nearby WiFi networks, displays their details in a formatted table, 
 ✅ Lightweight and works on Linux / Windows
 
 
-📦 Requirements
-
-Install dependencies before running:
-
 
 ## 📦 Installation
 
@@ -27,6 +23,3 @@ git clone https://github.com/yourusername/wifi-scanner.git
 cd wifi-scanner
 pip install pywifi
 python wifiscan.py
-
-
-
